@@ -1,0 +1,36 @@
+﻿O,O,O,W,E,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,W,H,,H,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,W,,,,: To Vassar Street,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,W,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,W,,,,,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,W,W,,,W,O,O,O,O,O,O,O,O,O,O,O,O,W,E,W,O,O,O
+O,O,W,,,,,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,W,,I,L,I,W,W,O,O,O,O,O,O,O,O,O,,E,H,,H,E,O,O
+O,O,W,H,,,,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,W,H,,,,I,,,W,O,O,O,O,O,O,O,W,W,,,,,,W,O
+W,W,W,I,,,,W,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,W,,,,,I,L,I,W,O,O,O,O,O,W,W,,: To Koch Institute,,,,,,W,O
+W,,,L,,,,B,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,W,,,,,,I,O,O,O,O,W,W,,,,,,,,,,,W
+W,W,W,I,,,,,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,W,,,,,W,O,O,W,W,,,,,,,,,,,,W,O
+W,,,L,,,,,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,W,,,,,,W,W,H,,,,,,,,,,,W,W,O,O
+W,W,W,I,,,,,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,W,W,O,O,O,O,O,O,W,,,,,,,,,,,,,,,,W,W,O,O,O,O
+W,,,L,,,,,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,W,W,,,W,O,O,O,O,O,W,W,,,,,,,,,,,H,,W,W,W,O,O,O,O,O
+W,W,W,I,,,,,W,O,O,O,O,O,W,W,W,W,W,W,W,W,W,W,W,O,O,O,O,W,W,W,,,T,,,W,O,O,W,W,B,,,,,,,,,,W,D,W,W,B,B,W,O,O,O,O,O
+O,O,W,H,,,,,W,O,O,O,O,O,W,,,,,,,,,H,W,O,O,O,W,W,,,,,,T,,W,W,W,B,,,,,,,,,,,,W,,,,,,W,O,O,O,O,O
+O,E,,,,,,,W,O,O,O,O,O,W,,,,,,,,,,W,O,O,O,W,,,,,,,,,W,H,,,,,,,,,,W,W,W,W,W,W,,B,B,,W,O,O,O,O,O
+W,,,,,,,,W,O,O,O,O,O,W,,,,S,,,,T,,W,O,O,O,W,,,,,,H,W,D,W,,,,,,,,,,,W,,,,,W,,,,,W,O,O,O,O,O
+E,,,,,,,,W,W,W,W,W,W,W,,,,,,,,T,,W,W,W,W,W,,,,,,W,W,,:32-144,,,,W,W,W,W,,,,W,H,,,,W,,B,B,,W,O,O,O,O,O
+W,W,H,,,,,,,B,B,B,B,B,W,,,,,,,,,,W,,,,,W,,,,W,,,,,,,,D,,,W,,,,W,W,W,D,W,W,,,,,W,O,O,O,O,O
+O,O,W,W,,,,,,,,,,,W,W,D,W,W,W,W,W,D,W,W,,,,,H,W,D,W,:32-144,,,,,,,,W,W,W,W,,,,: Forbus Café,H,,,H,: Forbus Cafe,,B,B,,W,O,O,O,O,O
+O,O,O,O,W,W,,,,,,,,,,H,,:32-124,,,,:32-124,,H,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,O,O,O,O,O
+O,O,O,O,O,O,E,W,H,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:32-155,,H,,,,,,,,,,,,,,,,,,,W,O,O,O,O,O
+O,O,O,O,O,O,O,O,W,W,,,,,,,,,,,,,,,,,,W,W,W,W,D,W,:32-141,,,W,W,D,W,W,W,W,,,,,,,,,,,,H,,,,W,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,W,W,,H,,:32-123,,,,,,,,,,H,W,,,,H,,W,W,W,W,W,,,H,,,H,W,,:32-155,,,,,,,,,,W,W,,W,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,W,W,D,W,,H,,,,,,:32-141,,W,H,,,,,,W,O,O,O,W,,,,,,,W,D,W,H,,,,: Restrooms,,H,: To Hockfield Court,E,O,O,W,W,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,W,W,,,H,W,W,,:32-123,,,,W,D,W,,,,,,,W,O,O,O,W,,,,,,,,,W,W,W,W,E,W,W,W,W,O,O,O,O,W,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,W,,,,,,W,D,W,,,,W,,,,,,,,,W,O,O,O,W,,,,,,,,,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,W,,,,,,,,W,,,,,W,,,,,,,,W,O,O,O,W,,,,,,,,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,W,,,,,,,,,W,,,,,,W,,,,,,,W,O,O,O,W,,,,,,,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,W,W,,,,,,,,W,,,,,,W,O,W,,,T,T,,W,O,O,O,W,,T,T,,,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,W,,,,,,,,H,W,,,,,,W,O,O,W,H,,,W,O,O,O,O,O,W,,,H,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,W,W,,,,,,,,W,,,,,,,W,O,O,O,W,W,W,O,O,O,O,O,O,W,W,W,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,W,,,T,,,,,,W,,,,,,,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,W,,,,T,,,,W,,,,,,,,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,W,W,H,,,,,W,W,,,,,,,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,W,W,H,,W,W,W,W,E,W,H,: To Alum Gym,,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,W,W,O,O,O,O,O,O,W,W,W,W,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
